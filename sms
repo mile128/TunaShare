@@ -1,0 +1,10 @@
+Creation du Compte dans GitHub
+username : mile128
+password : ********
+
+$ git config --list
+$ git config --global user.name 'mile-terminal'
+$ git config --global user.email 'mucoemilekyb@gmail.com'
+
+Repository name : TunaLearn
+Desc : my first repository
